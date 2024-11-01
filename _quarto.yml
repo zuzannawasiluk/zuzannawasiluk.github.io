@@ -1,19 +1,21 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "zuzannawasiluk.github.io"
+  title: "Zuzanna Wasiluk"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - economics.qmd
+      - statistics.qmd 
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
-

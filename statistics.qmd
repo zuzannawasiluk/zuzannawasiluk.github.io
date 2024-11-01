@@ -1,11 +1,6 @@
 ---
 title: "Statistics and Data Science"
+format: 
+  html: default
 ---
 
-I have completed Introductory Econometrics and Data Science 1 as part of my Statistics and Data Science concentration. 
-
-Describe Data Science 1 project
-
-I am currently taking Data Science 2, Econometrics: Time Series and Forecasting, and Statistics 2 to fulfill the requirements of the concentration. 
-
-Data Science 2 
