@@ -1,11 +1,16 @@
 ---
-title: "zuzannawasiluk.github.io"
+title: "Zuzanna Wasiluk"
+about:
+  template: broadside
+  image: media/photo.jpg
+  image-shape: rectangle
+format:
+  html: 
+    theme: cerulean
+    fontsize: 1.1em
+    linestretch: 1.7
 ---
 
-This is a Quarto website.
+Hello! I'm Zuzanna (pronounced Zoo-z-anna) and I am currently studying Economics, Statistics, and Data Science at St. Olaf College. For my fall semester I have Data Science 2, Statistics 2, Econometrics: Time Series and Forecasting, Politics and Development, Rock Climbing, and an academic internship at the Northfield History Center for my classes.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Thank you for taking the time to look at some of my work. Enjoy!
